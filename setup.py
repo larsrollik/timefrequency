@@ -13,14 +13,14 @@ with open(path.join(this_directory, "LICENSE")) as f:
 
 
 setup(
-    name="templatepy",
+    name="timefrequency",
     version="0.0.0.dev0",
-    description="templatepy",
+    description="timefrequency",
     long_description=long_description,
     long_description_content_type="text/markdown",
     python_requires=">=3.6",
     packages=find_packages(),
-    url="https://github.com/larsrollik/templatepy",
+    url="https://github.com/larsrollik/timefrequency",
     author="Lars B. Rollik",
     author_email="L.B.Rollik@protonmail.com",
     license=license_text,
